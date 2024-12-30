@@ -1,0 +1,2 @@
+succesful_requests: 33
+failed_requests: 67
